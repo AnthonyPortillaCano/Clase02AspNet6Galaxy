@@ -1,0 +1,15 @@
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\bin\Debug\net6.0\Negocios.deps.json
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\bin\Debug\net6.0\Negocios.dll
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\bin\Debug\net6.0\Negocios.pdb
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\bin\Debug\net6.0\AccesoDatos.dll
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\bin\Debug\net6.0\AccesoDatos.pdb
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.csproj.AssemblyReference.cache
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.AssemblyInfoInputs.cache
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.AssemblyInfo.cs
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.csproj.CoreCompileInputs.cache
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.csproj.CopyComplete
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.dll
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\refint\Negocios.dll
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\Negocios.pdb
+D:\CursoNet6WebDeveloperModulo2\Clase02\CRUDEmpresa\Negocios\obj\Debug\net6.0\ref\Negocios.dll
